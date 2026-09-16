@@ -19,11 +19,11 @@ I would combine four lightweight controls:
 
 | Gate | Timing | Evidence required to exit |
 |---|---:|---|
-| **G0 — Align** | T-30 | Approved brief, audience, offers, KPIs, channel scope, budget guardrails |
-| **G1 — Commit** | T-21 | Integrated plan, asset/media matrix, technical requirements, dependency owners, approval calendar |
-| **G2 — Validate** | T-7 | Final creative, media trafficking, offer/content parity, web/app/store QA, tracking validation |
-| **G3 — Launch** | T-2 | No open critical defects, accepted residual risks, monitoring and rollback plans, named go/no-go approver |
-| **G4 — Learn** | T+7 | Results, launch incidents, lessons learned, and improvement actions with owners and dates |
+| **G0: Align** | T-30 | Approved brief, audience, offers, KPIs, channel scope, budget guardrails |
+| **G1: Commit** | T-21 | Integrated plan, asset/media matrix, technical requirements, dependency owners, approval calendar |
+| **G2: Validate** | T-7 | Final creative, media trafficking, offer/content parity, web/app/store QA, tracking validation |
+| **G3: Launch** | T-2 | No open critical defects, accepted residual risks, monitoring and rollback plans, named go/no-go approver |
+| **G4: Learn** | T+7 | Results, launch incidents, lessons learned, and improvement actions with owners and dates |
 
 ## Integrated delivery view
 
@@ -51,30 +51,30 @@ I would combine four lightweight controls:
 
 | Leading indicator | Illustrative status | Trigger for action |
 |---|---:|---|
-| Weighted launch readiness | 🟠 82% | Red if any required G2 evidence is missing at T-5 |
+| Weighted launch readiness | Amber: 82% | Red if any required G2 evidence is missing at T-5 |
 | Critical-path milestones complete | 19 / 22 | Escalate any slip with downstream impact |
 | Blocked deliverables | 2; one blocked >48h | Escalate after 24h without a recovery owner/date |
 | Pending decisions | 3; one overdue | DACI approver decides or delegates within 24h |
 | Open critical / high defects | 0 / 2 | No-go for any open critical defect |
 | G3 forecast | **Conditional go** | Convert to go only when named conditions close |
 
-From T-14 through launch, I would use a 15-minute daily critical-path review, a twice-weekly leadership dashboard, and exception-based escalation. At T+7, the team would convert the retrospective into owned process changes—for example, a reusable proofing workflow, revised approval SLA, or new launch-readiness template.
+From T-14 through launch, I would use a 15-minute daily critical-path review, a twice-weekly leadership dashboard, and exception-based escalation. At T+7, the team would convert the retrospective into owned process changes, such as a reusable proofing workflow, revised approval SLA, or new launch-readiness template.
 
 ## Why this approach fits the role
 
 The role calls for end-to-end project management, cross-functional accountability, process improvement, and reporting. This plan makes each visible: a shared plan for delivery, explicit ownership for handoffs, gates and escalation for risk, and leading indicators that help leaders act before a deadline slips.
 
-For an interview, I would keep this hypothetical case separate from a factual Flipkart example: **situation → cross-functional dependency → action I personally owned → measured result → lesson applied here**. That preserves credibility while showing that the operating judgment is grounded in real experience.
+For an interview, I would keep this hypothetical case separate from a factual Flipkart example: **situation, cross-functional dependency, action I personally owned, measured result, and lesson applied here**. That preserves credibility while showing that the operating judgment is grounded in real experience.
 
 ## Public sources and framework notes
 
-- [The Home Depot — Marketing Project Manager posting](https://careers.homedepot.com/job/23737665/marketing-project-manager-onsite/)
-- [The Home Depot — 2026 Spring Starts announcement](https://corporate.homedepot.com/news/products/power-washers-patios-home-depots-spring-starts-event-kicks-season-savings)
-- [Adobe — The Home Depot customer story](https://business.adobe.com/customer-success-stories/the-home-depot-case-study.html)
-- [Atlassian — RACI responsibility matrix](https://www.atlassian.com/work-management/project-management/raci-chart)
-- [Atlassian Team Playbook — DACI decision framework](https://www.atlassian.com/team-playbook/plays/daci)
-- [Adobe Workfront — automated review and approval stages](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow)
-- [Project Management Institute — decision gates and leading indicators](https://www.pmi.org/learning/library/rescuing-runaway-projects-governance-methodology-7445)
+- [The Home Depot: Marketing Project Manager posting](https://careers.homedepot.com/job/23737665/marketing-project-manager-onsite/)
+- [The Home Depot: 2026 Spring Starts announcement](https://corporate.homedepot.com/news/products/power-washers-patios-home-depots-spring-starts-event-kicks-season-savings)
+- [Adobe: The Home Depot customer story](https://business.adobe.com/customer-success-stories/the-home-depot-case-study.html)
+- [Atlassian: RACI responsibility matrix](https://www.atlassian.com/work-management/project-management/raci-chart)
+- [Atlassian Team Playbook: DACI decision framework](https://www.atlassian.com/team-playbook/plays/daci)
+- [Adobe Workfront: automated review and approval stages](https://experienceleague.adobe.com/en/docs/workfront/using/review-and-approve-work/proofing/proofing-overview/automated-workflow)
+- [Project Management Institute: decision gates and leading indicators](https://www.pmi.org/learning/library/rescuing-runaway-projects-governance-methodology-7445)
 
 ---
 
