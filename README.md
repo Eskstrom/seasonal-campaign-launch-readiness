@@ -8,6 +8,8 @@ The Home Depot's Spring Starts promotion ran March 19-April 1, 2026 across store
 
 **Objective:** create one operating view that makes ownership explicit, exposes risk early, and supports a fact-based go/no-go decision without taking functional ownership away from expert teams.
 
+**What is illustrative:** The Home Depot scenario, timelines, ownership model, risks, dashboard values, and targets are examples developed from public information. **What is grounded in experience:** I have used similar cross-functional planning, dependency management, and delivery practices in my work at Flipkart. This case does not disclose internal information from either company.
+
 ## My operating model
 
 I would combine four lightweight controls:
@@ -64,7 +66,6 @@ From T-14 through launch, I would use a 15-minute daily critical-path review, a 
 
 The role calls for end-to-end project management, cross-functional accountability, process improvement, and reporting. This plan makes each visible: a shared plan for delivery, explicit ownership for handoffs, gates and escalation for risk, and leading indicators that help leaders act before a deadline slips.
 
-For an interview, I would keep this hypothetical case separate from a factual Flipkart example: **situation, cross-functional dependency, action I personally owned, measured result, and lesson applied here**. That preserves credibility while showing that the operating judgment is grounded in real experience.
 
 ## Public sources and framework notes
 
